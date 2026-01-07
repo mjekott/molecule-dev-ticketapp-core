@@ -18,12 +18,6 @@ webpack.config.*
 rollup.config.*
 vite.config.*
 
-# Source & tests (publish only dist)
-src
-test
-tests
-__tests__
-coverage
 
 # Git & GitHub
 .git
