@@ -1,0 +1,24 @@
+{
+  "name": "@ticketapp/core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "type": "commonjs",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Core utilities and shared setup",
+  "author": {
+    "name": "Mfonobong",
+    "email": "ekottmfon@gmail.com"
+  },
+  "peerDependencies": {
+    "prettier": "^3.0.0"
+  },
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^5.2.2"
+  },
+  "exports": {
+    "prettier": "./src/prettier.config.mjs"
+  }
+}
