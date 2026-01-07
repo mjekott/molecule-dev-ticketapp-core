@@ -1,5 +1,5 @@
 {
-  "name": "mjekottticketapp/core",
+  "name": "@molecule-dev/ticketapp-core",
   "version": "1.0.0",
   "main": "index.js",
   "license": "ISC",
